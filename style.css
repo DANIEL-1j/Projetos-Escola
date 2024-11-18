@@ -20,3 +20,6 @@ header{
     display: flex;
     justify-content: center;
 }
+.chamada-texto{
+    font-size: 43px;
+}
