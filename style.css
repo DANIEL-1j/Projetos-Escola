@@ -10,7 +10,7 @@ header{
     border-bottom: solid 2px rgb(1, 29, 88);
     padding: 20px;
     font-size: 32px;
-    color: beige;
+    color: azure;
 }
 
 .chamada{
@@ -24,6 +24,6 @@ header{
     margin-right: 5%;
 }
 h1{
-    font-size: 22px;
-    margin-left: 5%;
+    font-size: 30px;
+    margin-right: 5%;
 }
