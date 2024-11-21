@@ -1,20 +1,20 @@
 body{
     color: azure;
-    background: burlywood;
+    background: rgba(122, 181, 233, 0.719);
     margin: 0px;
     font-family: "Sarabun", sans-serif;
     margin-bottom: 100px;
 }
 
 header{
-    border-bottom: solid 2px yellow;
+    border-bottom: solid 2px rgb(1, 29, 88);
     padding: 20px;
     font-size: 32px;
     color: beige;
 }
 
 .chamada{
-    background:black;
+    background:rgb(21, 167, 123);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
