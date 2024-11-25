@@ -38,3 +38,8 @@ h1{
     overflow: auto;
     gap: 10px;
 }
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
+    
+}
