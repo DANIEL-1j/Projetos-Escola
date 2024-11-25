@@ -31,8 +31,10 @@ h1{
     background: white;
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: ;
+    margin-top: 50px;
 }
 .categoria-videos{
-    
+    display: flex;
+    overflow: auto;
+    gap: 10px;
 }
