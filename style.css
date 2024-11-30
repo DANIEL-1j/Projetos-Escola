@@ -39,10 +39,10 @@ h1{
     gap: 10px;
 }
 .categoria-videos img{
-    opacity: 0.5;
+    opacity: 1.0;
     height: 200px;
 }
 .categoria-videos img :hover{
-    opacity: 1.0;
+    opacity: o.5;
     border: 2px solid blue;
 }
